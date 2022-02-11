@@ -1,6 +1,6 @@
 ### Hiya im Cat!
 
-[![Twitter Follow](https://img.shields.io/twitter/follow/CatShark34?color=purple&label=Follow%20me%20%CatShark34&style=plastic)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2FCatSharkShin&screen_name=CatSharku)
+[![Twitter Follow](https://img.shields.io/twitter/follow/CatShark34?color=purple&label=Follow%20me%20%CatShark34&style=plastic)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2FCatSharkShin&screen_name=CatShark34)
 ![Profile views](https://gpvc.arturio.dev/CatSharkShin)
 ![SenkoXCatShark](https://i.imgur.com/UCfinC1.png)
 ## Im in college for coding
