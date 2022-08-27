@@ -4,7 +4,7 @@
 ![SenkoXCatShark](https://i.imgur.com/UCfinC1.png)
 ## Im in college for coding
 
-- Working on the FoxClient :3
+- Working on stuff for [Neos VR](https://neos.com/) and Unity
 - Making python scripts for specific stuff for comfort
 - Vibing with my baby [Senko][Senko]
 <br />
