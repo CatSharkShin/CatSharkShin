@@ -1,13 +1,7 @@
 ### Hiya im Cat!
 
 ![Profile views](https://gpvc.arturio.dev/CatSharkShin)
-![SenkoXCatShark](https://i.imgur.com/UCfinC1.png)
 ## Im in college for coding
-
-- Working on stuff for [Neos VR](https://neos.com/) and Unity
-- Making python scripts for specific stuff for comfort
-- Vibing with my baby [Senko][Senko]
-<br />
 
 ### What i use mainly:
 
