@@ -1,4 +1,5 @@
-<h1 align="left">Hiya! Im Cat!</h1>
+<h1 align="left">Hiya! Im <img height="60" align="center" src="https://imgur.com/6iVmOs3.gif"  /></h1>
+
 
 <img align="left" height="150" src="https://imgur.com/IZPgaPK.png"  />
 
@@ -9,7 +10,7 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="python logo"  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/unity/unity-original.svg" height="30" alt="unity logo"  />
+  <img src="https://svgshare.com/i/wm7.svg" height="30" alt="unity logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/blender/blender-original.svg" height="30" alt="blender logo"  />
   <img width="12" />
