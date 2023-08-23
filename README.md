@@ -1,7 +1,7 @@
 <h1 align="left">Hiya! Im <img height="60" align="center" src="https://imgur.com/6iVmOs3.gif"  /></h1>
 
 
-<img align="left" height="150" src="https://imgur.com/IZPgaPK.png"  />
+<img align="left" height="150" src="https://i.postimg.cc/Pq1p8ncD/THE-ONE.png"  />
 
 ###
 
