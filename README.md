@@ -1,6 +1,5 @@
 <h1 align="left">Hiya! Im <img height="60" align="center" src="https://imgur.com/6iVmOs3.gif"  /></h1>
 
-
 <img align="left" height="300" src="https://i.postimg.cc/1X2TFHXC/oc2-pixel.png"  />
 
 ###
@@ -39,17 +38,17 @@
 </div>
 </br>
 </br>
-</br>
-
-###
 
 <h2>
   - 👩🏻‍💻Software Engineer college graduate<br>
   - 🥽VR enthusiast<br>
   - 🎨3D Artist
-</h2>
+</br>
+</br>
+</br>
 
-<h2>Working on</h2>
+
+Working on</h2>
 <ul>
 <li><a href="https://github.com/ItsSenko/EldenRing-PvP-Helper">Elden Ring PvP Helper</a></li>
 </ul>
