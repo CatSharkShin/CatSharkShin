@@ -40,7 +40,7 @@
 </br>
 
 <h2>
-  - 👩🏻‍💻Software Engineer college graduate<br>
+  - 👩🏻‍💻Software Engineer<br>
   - 🥽VR enthusiast<br>
   - 🎨3D Artist
 </br>
