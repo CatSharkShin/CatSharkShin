@@ -1,6 +1,6 @@
 <h1 align="left">Hiya! Im <img height="60" align="center" src="https://imgur.com/6iVmOs3.gif"  /></h1>
 
-<img align="left" height="300" src="https://i.postimg.cc/43nWQXfG/oc-pixelated-pastel-upscaled.png"  />
+<img align="left" height="300" src="https://i.postimg.cc/bNMx2QKL/oc-pixelated-pastel-upscaled.png?">
 
 ###
 
